@@ -31,3 +31,16 @@ How to run
 2. Start the app, press Start. Notification indicates service is running.
 3. Observe the UI dashboard and Jank% while changing "Compute Load".
 4. To reproduce: set load=2, run for 30 seconds and capture Jank%-value shown in the app.
+
+## Screenshot
+
+![Screen Screenshot](ss/ss1.jpg)
+![Screen Screenshot](ss/ss2.jpg)
+
+---
+
+## APK Download
+
+You can download the APK and install it on your Android device:
+
+[Download APK](TelemetryLab/app/release/telemetryLab.apk)
